@@ -1,0 +1,48 @@
+regionen:
+  Mittelreich:
+    beschreibung: "Das Herz des Neuen Reiches"
+    kulturen: ["Mittelländer"]
+    ressourcen: ["Getreide", "Viehzucht", "Handwerk", "Erz"]
+    klima: "gemäßigt"
+
+  Nordmarken:
+    beschreibung: "Grenzregion im Norden"
+    kulturen: ["Mittelländer", "Thorwaler"]
+    ressourcen: ["Holz", "Fischfang", "Pelze", "Viehzucht"]
+    klima: "kühl"
+
+  Horasreich:
+    beschreibung: "Das alte Kaiserreich im Süden"
+    kulturen: ["Horasier"]
+    ressourcen: ["Wein", "Oliven", "Handel", "Kunst"]
+    klima: "mediterran"
+
+  Thorwal:
+    beschreibung: "Land der Seefahrer"
+    kulturen: ["Thorwaler"]
+    ressourcen: ["Fischfang", "Walfang", "Schiffbau", "Pelze"]
+    klima: "kalt"
+
+  Tulamidenlande:
+    beschreibung: "Die Wüstenreiche"
+    kulturen: ["Tulamiden", "Novadi"]
+    ressourcen: ["Gewürze", "Pferde", "Handel", "Seide"]
+    klima: "heiß"
+
+  Bornland:
+    beschreibung: "Östliche Provinz"
+    kulturen: ["Mittelländer", "Bornländer"]
+    ressourcen: ["Getreide", "Bernstein", "Holz", "Pelze"]
+    klima: "kontinental"
+
+  Aranien:
+    beschreibung: "Land zwischen den Kulturen"
+    kulturen: ["Tulamiden", "Mittelländer"]
+    ressourcen: ["Wein", "Oliven", "Pferde", "Früchte"]
+    klima: "warm"
+
+  Svellttal:
+    beschreibung: "Das wilde Grenzland"
+    kulturen: ["Mittelländer", "Thorwaler"]
+    ressourcen: ["Erz", "Holz", "Jagd", "Kräuter"]
+    klima: "gemäßigt"

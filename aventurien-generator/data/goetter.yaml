@@ -1,0 +1,70 @@
+zwoelfgoetter:
+  - name: "Praios"
+    aspekte: ["Sonne", "Gerechtigkeit", "Wahrheit", "Ordnung"]
+    symbol: "Greifenschädel"
+    heiliger_tag: "1. Praios"
+
+  - name: "Rondra"
+    aspekte: ["Krieg", "Ehre", "Sturm", "Tapferkeit"]
+    symbol: "Schwert und Löwin"
+    heiliger_tag: "1. Rondra"
+
+  - name: "Efferd"
+    aspekte: ["Wasser", "Meer", "Reise", "Sturm"]
+    symbol: "Delphin"
+    heiliger_tag: "1. Efferd"
+
+  - name: "Travia"
+    aspekte: ["Heim", "Gastfreundschaft", "Treue", "Familie"]
+    symbol: "Gans"
+    heiliger_tag: "1. Travia"
+
+  - name: "Boron"
+    aspekte: ["Tod", "Schlaf", "Träume", "Vergessen"]
+    symbol: "Rabe"
+    heiliger_tag: "1. Boron"
+
+  - name: "Hesinde"
+    aspekte: ["Wissen", "Magie", "Kunst", "Handwerk"]
+    symbol: "Schlange"
+    heiliger_tag: "1. Hesinde"
+
+  - name: "Firun"
+    aspekte: ["Winter", "Jagd", "Kälte", "Wildnis"]
+    symbol: "Eisbär"
+    heiliger_tag: "1. Firun"
+
+  - name: "Tsa"
+    aspekte: ["Leben", "Wandel", "Jugend", "Erneuerung"]
+    symbol: "Eidechse"
+    heiliger_tag: "1. Tsa"
+
+  - name: "Phex"
+    aspekte: ["Handel", "Diebe", "Mond", "List"]
+    symbol: "Fuchs"
+    heiliger_tag: "Vollmond"
+
+  - name: "Peraine"
+    aspekte: ["Ernte", "Heilung", "Landwirtschaft", "Fruchtbarkeit"]
+    symbol: "Storch"
+    heiliger_tag: "1. Peraine"
+
+  - name: "Ingerimm"
+    aspekte: ["Feuer", "Schmiedekunst", "Handwerk", "Vulkane"]
+    symbol: "Hammer und Amboss"
+    heiliger_tag: "1. Ingerimm"
+
+  - name: "Rahja"
+    aspekte: ["Liebe", "Wein", "Ekstase", "Schönheit"]
+    symbol: "Stute"
+    heiliger_tag: "1. Rahja"
+
+halbgoetter:
+  - name: "Nandus"
+    aspekte: ["Wissen", "Neugier"]
+  - name: "Aves"
+    aspekte: ["Reise", "Abenteuer"]
+  - name: "Ifirn"
+    aspekte: ["Schnee", "Mitgefühl"]
+  - name: "Swafnir"
+    aspekte: ["Walfang", "Thorwaler"]

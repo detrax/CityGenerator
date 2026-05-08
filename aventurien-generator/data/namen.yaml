@@ -1,0 +1,32 @@
+staedte:
+  Mittelländer:
+    praefixe: ["Gar", "Alt", "Groß", "Klein", "Ober", "Unter", "Neu", "Hohen", "Stein", "Wald", "Furt", "Brück", "Burg"]
+    suffixe: ["eth", "heim", "fels", "stein", "brück", "furt", "hausen", "dorf", "berg", "wald", "au", "ingen", "ach"]
+
+  Thorwaler:
+    praefixe: ["Thorst", "Olm", "Prem", "Fjar", "Ask", "Norn", "Hjalm", "Grim", "Bjorn"]
+    suffixe: ["holm", "dal", "vik", "fjord", "ness", "by", "gard", "stad", "land"]
+
+  Horasier:
+    praefixe: ["Vins", "Cust", "Ald", "Bel", "Mont", "Val", "Pal", "Cort"]
+    suffixe: ["alta", "enza", "ora", "ium", "ano", "ini", "eto", "aria"]
+
+  Tulamiden:
+    praefixe: ["Al", "El", "Kha", "Bel", "Mha", "Zha", "Ras", "Fas"]
+    suffixe: ["akam", "abad", "schahr", "an", "ahan", "istan", "ur", "os"]
+
+personen:
+  Mittelländer:
+    maennlich: ["Alrik", "Borstan", "Cordovan", "Darian", "Edorian", "Firn", "Geron", "Harbord", "Irion", "Jorgen", "Kunold", "Leomar", "Marnion", "Nandor", "Ondro", "Praiodor", "Rakorium", "Stovan", "Trautmann", "Ulfing", "Wulfgar", "Xaron", "Yandur", "Zeltor"]
+    weiblich: ["Alrike", "Bornhilde", "Celia", "Daria", "Efferdane", "Fianna", "Gwendala", "Haldana", "Iralda", "Jelena", "Kordelia", "Leomara", "Miralda", "Nadine", "Olena", "Praiadne", "Rondriane", "Salina", "Traviane", "Ulmarde", "Wulfhilde", "Xena", "Yasmina", "Zoraide"]
+    nachnamen: ["von Gareth", "von Weiden", "Stippwitz", "Hirschfurten", "Rabenmund", "Storchengrab", "Falkenhag", "Silberbrand", "Eichengrund", "Bachforellen", "vom Großen Fluss", "Feuerschlag"]
+
+  Thorwaler:
+    maennlich: ["Asleif", "Beorn", "Donar", "Eirik", "Fjarkal", "Gorm", "Halmar", "Ingo", "Jorund", "Kjell", "Leif", "Magnus", "Njall", "Olaf", "Preem", "Ragnor", "Sigurd", "Tjalf", "Ulf", "Vigdis"]
+    weiblich: ["Asa", "Brunhild", "Dalla", "Eira", "Frida", "Geira", "Hilda", "Ingrid", "Jola", "Kara", "Lina", "Magna", "Nanna", "Olva", "Ragna", "Sigrun", "Thora", "Ulla", "Vigdis", "Ylva"]
+    nachnamen: ["Svensson", "Eiriksdottir", "Ulfgar", "Sturmsohn", "Wellentänzer", "Isenhammer", "Frostbart"]
+
+  Tulamiden:
+    maennlich: ["Abbas", "Bashar", "Chalid", "Dschadir", "Emir", "Faruq", "Ghali", "Hassan", "Ibrahim", "Jafar", "Khalil", "Latif", "Mahmud", "Nassir", "Omar", "Qasim", "Rashid", "Salim", "Tarik", "Umar", "Walid", "Yusuf", "Zahir"]
+    weiblich: ["Amina", "Basima", "Chadidscha", "Dalila", "Esma", "Fatima", "Ghalia", "Halima", "Inas", "Jamila", "Karima", "Layla", "Marwa", "Nadia", "Oleli", "Qadira", "Rahima", "Samira", "Tahira", "Ufuk", "Warda", "Yasmin", "Zahra"]
+    nachnamen: ["ibn Horas", "al-Mhanadistan", "bint Rashid", "al-Khunchom", "ibn Fasar"]

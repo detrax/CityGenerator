@@ -1,0 +1,137 @@
+groessen:
+  - name: "Weiler"
+    min: 1
+    max: 10
+    min_einwohner: 10
+    max_einwohner: 50
+    max_tempel: 0
+    max_gilden: 0
+
+  - name: "Dorf"
+    min: 11
+    max: 35
+    min_einwohner: 51
+    max_einwohner: 300
+    max_tempel: 1
+    max_gilden: 0
+
+  - name: "Markt"
+    min: 36
+    max: 55
+    min_einwohner: 301
+    max_einwohner: 1000
+    max_tempel: 2
+    max_gilden: 1
+
+  - name: "Kleinstadt"
+    min: 56
+    max: 75
+    min_einwohner: 1001
+    max_einwohner: 5000
+    max_tempel: 4
+    max_gilden: 3
+
+  - name: "Stadt"
+    min: 76
+    max: 90
+    min_einwohner: 5001
+    max_einwohner: 20000
+    max_tempel: 8
+    max_gilden: 6
+
+  - name: "Großstadt"
+    min: 91
+    max: 98
+    min_einwohner: 20001
+    max_einwohner: 80000
+    max_tempel: 12
+    max_gilden: 10
+
+  - name: "Metropole"
+    min: 99
+    max: 100
+    min_einwohner: 80001
+    max_einwohner: 200000
+    max_tempel: 12
+    max_gilden: 15
+
+regierungsformen:
+  - name: "Vogtei"
+    titel: "Vogt"
+    weight: 30
+
+  - name: "Baronie"
+    titel: "Baron"
+    weight: 25
+
+  - name: "Grafschaft"
+    titel: "Graf"
+    weight: 15
+
+  - name: "Stadtrat"
+    titel: "Bürgermeister"
+    weight: 15
+
+  - name: "Theokratie"
+    titel: "Hohepriester"
+    weight: 5
+
+  - name: "Herzogtum"
+    titel: "Herzog"
+    weight: 5
+
+  - name: "Freie Stadt"
+    titel: "Rat der Ältesten"
+    weight: 5
+
+wohlstand:
+  - name: "verarmt"
+    min: 1
+    max: 10
+  - name: "arm"
+    min: 11
+    max: 25
+  - name: "bescheiden"
+    min: 26
+    max: 50
+  - name: "wohlhabend"
+    min: 51
+    max: 75
+  - name: "reich"
+    min: 76
+    max: 90
+  - name: "prächtig"
+    min: 91
+    max: 100
+
+gilden:
+  - "Händlergilde"
+  - "Schmiedegilde"
+  - "Weberzunft"
+  - "Bäckerzunft"
+  - "Brauergilde"
+  - "Steinmetzgilde"
+  - "Zimmererzunft"
+  - "Gerberzunft"
+  - "Töpferzunft"
+  - "Glasmachergilde"
+  - "Magiergilde"
+  - "Kriegergilde"
+
+besonderheiten:
+  - "Berühmte Akademie"
+  - "Heilige Quelle"
+  - "Uralte Ruinen"
+  - "Magischer Ort"
+  - "Legendäre Schmiede"
+  - "Geheimer Phextempel"
+  - "Altes Boronanger"
+  - "Merkwürdige Steinsetzung"
+  - "Verwunschener Wald in der Nähe"
+  - "Berüchtigte Taverne"
+  - "Sitz eines Ritterordens"
+  - "Große Bibliothek"
+  - "Wichtiger Flusshafen"
+  - "Bedeutende Brücke"
+  - "Alte Zwergenmine"
+  - "Elfische Verbündete"

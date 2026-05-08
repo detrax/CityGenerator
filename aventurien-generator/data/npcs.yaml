@@ -1,0 +1,79 @@
+professionen:
+  - "Bauer"
+  - "Schmied"
+  - "Wirt"
+  - "Händler"
+  - "Soldat"
+  - "Jäger"
+  - "Fischer"
+  - "Bäcker"
+  - "Schneider"
+  - "Zimmermann"
+  - "Priester"
+  - "Heiler"
+  - "Magier"
+  - "Gelehrter"
+  - "Barde"
+  - "Söldner"
+  - "Dieb"
+  - "Bettler"
+  - "Adliger"
+  - "Gardist"
+  - "Kräuterkundiger"
+  - "Alchimist"
+  - "Gerber"
+  - "Weber"
+  - "Müller"
+  - "Hirte"
+
+alter:
+  - name: "jung"
+    min: 1
+    max: 15
+  - name: "erwachsen"
+    min: 16
+    max: 70
+  - name: "älter"
+    min: 71
+    max: 90
+  - name: "greise"
+    min: 91
+    max: 100
+
+eigenschaften:
+  - "freundlich"
+  - "misstrauisch"
+  - "neugierig"
+  - "verschlossen"
+  - "großzügig"
+  - "geizig"
+  - "mutig"
+  - "ängstlich"
+  - "ehrlich"
+  - "verschlagen"
+  - "fromm"
+  - "abergläubisch"
+  - "stolz"
+  - "bescheiden"
+  - "redselig"
+  - "schweigsam"
+  - "hilfsbereit"
+  - "gleichgültig"
+  - "jähzornig"
+  - "gelassen"
+
+besonderheiten:
+  - "Hat ein Geheimnis"
+  - "Sucht jemanden"
+  - "Ist auf der Flucht"
+  - "Hat eine alte Schuld"
+  - "Kennt eine Legende"
+  - "Besitzt einen magischen Gegenstand"
+  - "Hat übernatürliche Fähigkeiten"
+  - "Ist verflucht"
+  - "War einst ein Abenteurer"
+  - "Hat Kontakte zur Unterwelt"
+  - "Ist ein Spion"
+  - "Dient heimlich einem Gott"
+  - "Hat prophetische Träume"
+  - "Ist eigentlich von Adel"
